@@ -1,4 +1,3 @@
-import re
 import sys
 
 def Day4(input = "input.txt"):
@@ -42,7 +41,4 @@ def check_direction(dir, strs, x,y) -> bool:
             return False
     return True
 
-
-
-    return sum
 print(Day4())

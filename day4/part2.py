@@ -1,4 +1,3 @@
-import re
 import sys
 
 def Day4(input = "input.txt"):
