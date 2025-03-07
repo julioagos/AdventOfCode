@@ -34,4 +34,4 @@ def Day7(input = "input.txt"):
                 sum += total
     return sum
 
-print(Day5())
+print(Day7())

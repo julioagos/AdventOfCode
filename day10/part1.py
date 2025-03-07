@@ -57,4 +57,4 @@ def Day10(input = "input.txt"):
     
     return sum
 
-print(Day5())
+print(Day10())
